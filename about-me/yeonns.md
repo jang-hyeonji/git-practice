@@ -1,3 +1,3 @@
 ## About Me
-- Name: YeonSeong Hwang
-- Github: https://github.com/yeonns
+- Name: jang-hyeonji
+- Github: https://github.com/jang-hyeonji
